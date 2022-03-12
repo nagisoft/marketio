@@ -1,0 +1,23 @@
+{
+    "title": "What you will Learn",
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Creative & Copywriting",
+            "description": "Creating a visual asset to capture attention & convey a convincing message.",
+            "icon": "/services/service1.svg"
+        },
+        {
+            "id": 2,
+            "title": "Targeting & Timing",
+            "description": "Getting in front of the right people, in the right place, at the right time.",
+            "icon": "/services/service2.svg"
+        },
+        {
+            "id": 3,
+            "title": "Budget  Maximization",
+            "description": "Allowing you to acquire the maximum yield for your advertising ressources.",
+            "icon": "/services/service3.svg"
+        }
+    ]
+}

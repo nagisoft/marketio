@@ -1,0 +1,16 @@
+{
+    "blocks": [
+        {
+            "id": 1,
+            "title": "Industry Specific Strategies",
+            "description": "Easy to integrate goal specific advertising campaign structures to get you started quickly & start your advertising efforts on the right foot in under an hour!",
+            "image": "/management/marketing.svg"
+        },
+        {
+            "id": 2,
+            "title": "Recommended Tools & Ressources",
+            "description": "Get access to an invaluable directory of top tools & resources online for organization, marketing, sales, design, video, web development, analytics, outsourcing & more!.",
+            "image": "/management/marketing2.png"
+        }
+    ]
+}
